@@ -1,0 +1,24 @@
+07:18:03.418 [main] INFO  - *** Started Login Test ***
+07:18:04.834 [main] INFO  - *** Finished Login Test ***
+07:19:11.035 [main] INFO  - *** Started Login Test ***
+07:20:01.789 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+07:20:02.844 [main] INFO  - Clicked on Register Link...
+07:20:02.848 [main] INFO  - Providing Customer Details
+07:20:06.733 [main] INFO  - Validating Expected Messages
+07:20:06.772 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+07:20:10.010 [main] INFO  - *** Started Login Test ***
+07:20:11.330 [main] INFO  - *** Finished Login Test ***
+07:29:37.651 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+07:29:38.155 [main] INFO  - Clicked on Register Link...
+07:29:38.171 [main] INFO  - Providing Customer Details
+07:29:39.528 [main] INFO  - Validating Expected Messages
+07:29:39.564 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+07:29:42.973 [main] INFO  - *** Started Login Test ***
+07:29:44.294 [main] INFO  - *** Finished Login Test ***
+07:30:56.891 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+07:30:57.427 [main] INFO  - Clicked on Register Link...
+07:30:57.432 [main] INFO  - Providing Customer Details
+07:30:58.074 [main] INFO  - Validating Expected Messages
+07:31:00.117 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+07:31:03.405 [main] INFO  - *** Started Login Test ***
+07:31:05.559 [main] INFO  - *** Finished Login Test ***
