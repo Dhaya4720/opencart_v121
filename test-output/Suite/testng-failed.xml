@@ -6,12 +6,12 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <parameter name="os" value="Windows"/>
-    <parameter name="browser" value="Edge"/>
+    <parameter name="browser" value="Chrome"/>
     <classes>
       <class name="testCases.TC003_LoginDDT">
         <methods>
-          <include name="Verify_loginDDT"/>
           <include name="teardown"/>
+          <include name="Verify_loginDDT" invocation-numbers="0 1 2"/>
           <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC003_LoginDDT -->

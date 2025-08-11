@@ -22,3 +22,266 @@
 07:31:00.117 [main] INFO  - **Finished TC001_AccountRegistrationTest**
 07:31:03.405 [main] INFO  - *** Started Login Test ***
 07:31:05.559 [main] INFO  - *** Finished Login Test ***
+12:41:19.992 [TestNG-tests-2] INFO  - **Starting TC001_AccountRegistrationTest**
+12:41:21.512 [TestNG-tests-2] INFO  - Clicked on Register Link...
+12:41:21.518 [TestNG-tests-2] INFO  - Providing Customer Details
+12:41:21.729 [TestNG-tests-1] INFO  - **Starting TC001_AccountRegistrationTest**
+12:41:31.789 [TestNG-tests-2] ERROR - Test Failed
+12:41:34.501 [TestNG-tests-1] INFO  - Clicked on Register Link...
+12:41:34.502 [TestNG-tests-1] INFO  - Providing Customer Details
+12:41:34.904 [TestNG-tests-1] ERROR - Test Failed
+12:41:38.479 [TestNG-tests-2] INFO  - *** Started Login Test ***
+12:41:40.333 [TestNG-tests-2] INFO  - *** Finished Login Test ***
+12:41:44.102 [TestNG-tests-2] INFO  -  Starting TC_004_SearchProductTest 
+12:41:44.631 [TestNG-tests-2] INFO  -  Finished TC_004_SearchProductTest 
+12:41:48.159 [TestNG-tests-2] INFO  -  Starting TC_005_AddToCartPageTest 
+12:41:49.467 [TestNG-tests-2] INFO  -  Finished TC_004_SearchProductTest 
+12:45:53.207 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+12:45:53.628 [main] INFO  - Clicked on Register Link...
+12:45:53.635 [main] INFO  - Providing Customer Details
+12:45:55.084 [main] INFO  - Validating Expected Messages
+12:45:55.139 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+12:45:58.535 [main] INFO  - *** Started Login Test ***
+12:45:59.782 [main] INFO  - *** Finished Login Test ***
+12:46:03.008 [main] INFO  -  Starting TC_004_SearchProductTest 
+12:46:03.438 [main] INFO  -  Finished TC_004_SearchProductTest 
+12:47:04.056 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+12:52:59.555 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+12:53:00.026 [main] INFO  - Clicked on Register Link...
+12:53:00.032 [main] INFO  - Providing Customer Details
+12:53:01.345 [main] INFO  - Validating Expected Messages
+12:53:01.387 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+12:53:04.444 [main] INFO  - *** Started Login Test ***
+12:53:05.713 [main] INFO  - *** Finished Login Test ***
+12:53:08.927 [main] INFO  -  Starting TC_004_SearchProductTest 
+12:53:09.385 [main] INFO  -  Finished TC_004_SearchProductTest 
+12:53:12.598 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+12:53:13.778 [main] INFO  -  Finished TC_004_SearchProductTest 
+12:54:49.906 [TestNG-tests-2] INFO  - **Starting TC001_AccountRegistrationTest**
+12:54:50.104 [TestNG-tests-1] INFO  - **Starting TC001_AccountRegistrationTest**
+12:55:00.330 [TestNG-tests-2] ERROR - Test Failed
+12:55:10.378 [TestNG-tests-1] ERROR - Test Failed
+12:55:15.131 [TestNG-tests-2] INFO  - *** Started Login Test ***
+12:55:16.162 [TestNG-tests-1] INFO  - *** Started Login Test ***
+12:55:16.477 [TestNG-tests-2] INFO  - *** Finished Login Test ***
+12:55:20.487 [TestNG-tests-2] INFO  -  Starting TC_004_SearchProductTest 
+12:55:20.958 [TestNG-tests-2] INFO  -  Finished TC_004_SearchProductTest 
+12:55:25.200 [TestNG-tests-2] INFO  -  Starting TC_005_AddToCartPageTest 
+12:55:37.463 [TestNG-tests-2] INFO  -  Finished TC_004_SearchProductTest 
+13:00:26.891 [TestNG-tests-2] INFO  - **Starting TC001_AccountRegistrationTest**
+13:00:26.890 [TestNG-tests-1] INFO  - **Starting TC001_AccountRegistrationTest**
+13:00:37.178 [TestNG-tests-2] ERROR - Test Failed
+13:00:47.201 [TestNG-tests-1] ERROR - Test Failed
+13:00:52.061 [TestNG-tests-1] INFO  - *** Started Login Test ***
+13:00:52.250 [TestNG-tests-2] INFO  - *** Started Login Test ***
+13:01:17.511 [TestNG-tests-1] INFO  -  Starting TC_004_SearchProductTest 
+13:01:18.990 [TestNG-tests-2] INFO  -  Starting TC_004_SearchProductTest 
+13:01:25.478 [TestNG-tests-1] INFO  -  Starting TC_005_AddToCartPageTest 
+13:02:26.866 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+13:02:27.313 [main] INFO  - Clicked on Register Link...
+13:02:27.316 [main] INFO  - Providing Customer Details
+13:02:28.694 [main] INFO  - Validating Expected Messages
+13:02:28.733 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+13:02:31.051 [main] INFO  - *** Started Login Test ***
+13:02:32.285 [main] INFO  - *** Finished Login Test ***
+13:02:35.485 [main] INFO  -  Starting TC_004_SearchProductTest 
+13:02:35.924 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:02:39.053 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+13:02:50.073 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:15:53.663 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+13:16:48.524 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+13:16:50.025 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:17:50.237 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:01.062 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:03.199 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:04.919 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:16.161 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:18:16.165 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:18.006 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:18:18.013 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:19.713 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:18:19.720 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:30.951 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:18:30.958 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:18:43.641 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:23:13.525 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:23:25.210 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:23:25.229 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:23:28.610 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:23:28.621 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:23:40.351 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:23:40.359 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:23:51.502 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:23:51.510 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:23:53.650 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:23:53.654 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:23:56.116 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:23:56.122 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:24:07.469 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:24:07.474 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:24:18.703 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:30:02.038 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+13:30:05.216 [main] INFO  - Clicked on Register Link...
+13:30:05.220 [main] INFO  - Providing Customer Details
+13:30:13.545 [main] INFO  - Validating Expected Messages
+13:30:13.607 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+13:30:16.713 [main] INFO  - *** Started Login Test ***
+13:30:18.416 [main] INFO  - *** Finished Login Test ***
+13:30:22.648 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:30:33.868 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:30:33.872 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:30:38.555 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:30:38.559 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:30:51.520 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:30:51.522 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:31:02.630 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:31:02.632 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:31:04.402 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:31:04.408 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:31:06.444 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:31:06.449 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:31:17.670 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:31:17.672 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:31:29.809 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:31:34.787 [main] INFO  -  Starting TC_004_SearchProductTest 
+13:31:35.287 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:32:23.539 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+13:32:24.826 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:42:33.829 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+13:42:34.355 [main] INFO  - Clicked on Register Link...
+13:42:34.365 [main] INFO  - Providing Customer Details
+13:42:35.729 [main] INFO  - Validating Expected Messages
+13:42:35.789 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+13:42:39.042 [main] INFO  - *** Started Login Test ***
+13:42:40.365 [main] INFO  - *** Finished Login Test ***
+13:42:44.702 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:42:55.943 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:42:55.945 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:42:59.993 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:42:59.997 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:43:12.386 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:43:12.388 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:43:23.530 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:43:23.533 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:43:25.354 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:43:25.358 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:43:27.171 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:43:27.176 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:43:38.381 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:43:38.382 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:43:50.483 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:43:54.115 [main] INFO  -  Starting TC_004_SearchProductTest 
+13:43:54.682 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:44:46.453 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+13:49:42.630 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+13:49:43.063 [main] INFO  - Clicked on Register Link...
+13:49:43.066 [main] INFO  - Providing Customer Details
+13:49:44.433 [main] INFO  - Validating Expected Messages
+13:49:44.480 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+13:49:47.688 [main] INFO  - *** Started Login Test ***
+13:49:48.968 [main] INFO  - *** Finished Login Test ***
+13:49:53.274 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:50:04.494 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:50:04.496 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:50:11.598 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:50:11.600 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:50:24.191 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:50:24.194 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:50:35.450 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:50:35.453 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:50:37.503 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:50:37.505 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:50:39.084 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:50:39.087 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:50:50.264 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:50:50.267 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:51:02.471 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:51:06.636 [main] INFO  -  Starting TC_004_SearchProductTest 
+13:51:07.291 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:51:54.439 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+13:51:55.602 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:55:42.415 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+13:55:42.859 [main] INFO  - Clicked on Register Link...
+13:55:42.862 [main] INFO  - Providing Customer Details
+13:55:44.256 [main] INFO  - Validating Expected Messages
+13:55:44.304 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+13:55:48.009 [main] INFO  - *** Started Login Test ***
+13:55:49.565 [main] INFO  - *** Finished Login Test ***
+13:55:55.184 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:56:07.314 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:56:07.318 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:56:09.004 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:56:09.008 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:56:20.203 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:56:20.206 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:56:31.358 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:56:31.359 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:56:35.087 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:56:35.089 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:56:38.272 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:56:38.278 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:56:49.949 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:56:49.950 [main] INFO  - *** Starting TC003_LoginDDT ***
+13:57:01.049 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+13:57:04.478 [main] INFO  -  Starting TC_004_SearchProductTest 
+13:57:04.951 [main] INFO  -  Finished TC_004_SearchProductTest 
+13:57:52.223 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+14:04:43.663 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+14:04:44.094 [main] INFO  - Clicked on Register Link...
+14:04:44.099 [main] INFO  - Providing Customer Details
+14:04:45.864 [main] INFO  - Validating Expected Messages
+14:04:45.913 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+14:04:49.107 [main] INFO  - *** Started Login Test ***
+14:04:50.736 [main] INFO  - *** Finished Login Test ***
+14:04:55.951 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:05:07.102 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:05:07.104 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:05:11.068 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:05:11.071 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:05:22.864 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:05:22.868 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:05:34.330 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:05:34.333 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:05:36.044 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:05:36.047 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:05:37.767 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:05:37.772 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:05:49.044 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:05:49.047 [main] INFO  - *** Starting TC003_LoginDDT ***
+14:06:01.152 [main] INFO  - *** Finnishing TC003_LoginDDT ***
+14:06:05.636 [main] INFO  -  Starting TC_004_SearchProductTest 
+14:06:06.291 [main] INFO  -  Finished TC_004_SearchProductTest 
+14:06:34.339 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+14:06:35.787 [main] INFO  -  Finished TC_004_SearchProductTest 
+15:00:36.642 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+15:00:37.613 [main] INFO  - Clicked on Register Link...
+15:00:37.632 [main] INFO  - Providing Customer Details
+15:00:39.980 [main] INFO  - Validating Expected Messages
+15:00:40.103 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+15:14:44.917 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+15:14:46.353 [main] INFO  - Clicked on Register Link...
+15:14:46.359 [main] INFO  - Providing Customer Details
+15:14:48.774 [main] INFO  - Validating Expected Messages
+15:14:48.851 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+15:14:51.153 [main] INFO  - *** Started Login Test ***
+15:14:53.229 [main] INFO  - *** Finished Login Test ***
+15:14:55.282 [main] INFO  -  Starting TC_004_SearchProductTest 
+15:14:56.122 [main] INFO  -  Finished TC_004_SearchProductTest 
+15:14:59.673 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+15:15:02.808 [main] INFO  -  Finished TC_004_SearchProductTest 
+15:15:14.077 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+15:15:15.346 [main] INFO  - Clicked on Register Link...
+15:15:15.349 [main] INFO  - Providing Customer Details
+15:15:17.828 [main] INFO  - Validating Expected Messages
+15:15:17.895 [main] INFO  - **Finished TC001_AccountRegistrationTest**
+15:15:24.563 [main] INFO  - *** Started Login Test ***
+15:15:26.603 [main] INFO  - *** Finished Login Test ***
+15:15:32.997 [main] INFO  -  Starting TC_004_SearchProductTest 
+15:15:34.442 [main] INFO  -  Finished TC_004_SearchProductTest 
+15:15:40.035 [main] INFO  -  Starting TC_005_AddToCartPageTest 
+15:15:41.416 [main] INFO  -  Finished TC_004_SearchProductTest 
+15:15:50.819 [main] INFO  - **Starting TC001_AccountRegistrationTest**
+15:15:52.746 [main] INFO  - Clicked on Register Link...
+15:15:52.747 [main] INFO  - Providing Customer Details
+15:15:55.644 [main] INFO  - Validating Expected Messages
+15:15:55.741 [main] INFO  - **Finished TC001_AccountRegistrationTest**

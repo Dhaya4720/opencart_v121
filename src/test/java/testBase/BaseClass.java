@@ -78,6 +78,7 @@ public class BaseClass {
 			driver=new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"),capabilities);
 		}
 		
+		//Local
 		if(pro.getProperty("execution_env").equalsIgnoreCase("local"))
 		{
 		switch (br.toLowerCase()) {

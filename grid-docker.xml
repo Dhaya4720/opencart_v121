@@ -4,13 +4,41 @@
 <listeners>
 <listener class-name="utilities.ExtentReportManager"/>
 </listeners>
-  <test thread-count="5" name="Test">
-  	<parameter name="os" value="Windows"/>
-  	<parameter name="browser" value="Edge"/>
-    <classes>
-      <class name="testCases.TC002_LoginTest"/>
-      <class name="testCases.TC003_LoginDDT"/>
-     <!-- <class name="testCases.TC001_AccountRegistrationTest"/>-->
-    </classes>
-  </test> <!-- Test -->
+  <test name="Linux-Chrome">
+<parameter name="os" value="Linux"/>
+<parameter name="browser" value="chrome"/>
+<classes>
+<class name="testCases.TC001_AccountRegistrationTest"/>
+     <class name="testCases.TC002_LoginTest"/>
+   
+    <class name="testCases.TC004_SearchProductTest"/>
+    
+    <class name="testCases.TC005_AddToCartPageTest"/>
+</classes>
+</test>
+<test name="Linux-Firefox">
+<parameter name="os" value="Linux"/>
+<parameter name="browser" value="firefox"/>
+<classes>
+<class name="testCases.TC001_AccountRegistrationTest"/>
+     <class name="testCases.TC002_LoginTest"/>
+    
+    <class name="testCases.TC004_SearchProductTest"/>
+   
+    <class name="testCases.TC005_AddToCartPageTest"/>
+</classes>
+</test> 
+
+<test name="Linux-Edge">
+<parameter name="os" value="Linux"/>
+<parameter name="browser" value="edge"/>
+<classes>
+<class name="testCases.TC001_AccountRegistrationTest"/>
+     <class name="testCases.TC002_LoginTest"/>
+  
+    <class name="testCases.TC004_SearchProductTest"/>
+    
+    <class name="testCases.TC005_AddToCartPageTest"/>
+</classes>
+</test><!-- Test -->
 </suite> <!-- Suite -->
